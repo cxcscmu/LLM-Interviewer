@@ -1,0 +1,9 @@
+.env
+/.vscode
+/.next
+/node_modules
+/src/app/_legacy
+/insighter/logs/*
+/insighter/data/*
+/insighter/plots/*
+__pycache__

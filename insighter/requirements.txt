@@ -1,0 +1,14 @@
+bertopic==0.16.4
+emoji==2.14.1
+hdbscan==0.8.40
+matplotlib==3.10.3
+numpy==2.2.6
+openai==1.79.0
+pandas==2.2.3
+python-dotenv==1.1.0
+scikit_learn==1.6.1
+seaborn==0.13.2
+tenacity==9.1.2
+tqdm==4.67.1
+umap==0.1.1
+umap_learn==0.5.7
